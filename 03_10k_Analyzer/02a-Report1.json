@@ -1,0 +1,24 @@
+{
+  "risks": [
+    {
+      "source_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK - Foreign Currency Risk",
+      "summary": "The company faces foreign currency risks related to revenue, costs of revenue, operating expenses, and localized subsidiary debt denominated in currencies other than the U.S. dollar (primarily the Chinese yuan, euro, Canadian dollar, and Norwegian krone). The company does not typically hedge foreign currency risk. A hypothetical 10% adverse change in foreign currency exchange rates for all currencies would have resulted in a potential loss of $277 million at December 31, 2021, and $8 million at December 31, 2020 (assuming no foreign currency hedging)."
+    },
+    {
+      "source_section": "ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK - Interest Rate Risk",
+      "summary": "The company is exposed to interest rate risk on borrowings that bear interest at floating rates. A hypothetical 10% change in interest rates on floating rate debt would have increased or decreased interest expense by $2 million for the year ended December 31, 2021, and $4 million for the year ended December 31, 2020."
+    },
+    {
+      "source_section": "ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA - Report of Independent Registered Public Accounting Firm (Critical Audit Matters)",
+      "summary": "The automotive warranty reserve is considered a critical audit matter due to the significant management judgment required in estimating the projected costs (including nature, frequency, and costs of future claims, and recalls). Total accrued warranty, primarily related to the automotive segment, was $2,101 million as of December 31, 2021."
+    },
+    {
+      "source_section": "Note 1 – Overview",
+      "summary": "The company faces ongoing global impacts resulting from the COVID-19 pandemic, including challenges and increases in costs for logistics and supply chains, such as increased port congestion, intermittent supplier delays and a shortfall of semiconductor supply."
+    },
+    {
+      "source_section": "Note 2 – Summary of Significant Accounting Policies - Concentration of Risk",
+      "summary": "The company is dependent on its suppliers, including single source suppliers, and the inability of these suppliers to deliver necessary components of products in a timely manner at acceptable prices, quality levels and volumes, or the inability to efficiently manage these components, could have a material adverse effect on the business."
+    }
+  ]
+}

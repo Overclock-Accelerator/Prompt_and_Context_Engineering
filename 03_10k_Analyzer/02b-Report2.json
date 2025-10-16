@@ -1,0 +1,24 @@
+{
+  "risks": [
+    {
+      "risk_category": "Digital Asset Risk and Volatility",
+      "detail": "The company holds digital assets (Bitcoin), which are subject to impairment losses. In the year ended December 31, 2021, the company recorded $101 million in impairment losses on such assets. Changes in fair value are recognized immediately as impairment losses if the market price declines below the carrying value, potentially introducing volatility to earnings."
+    },
+    {
+      "risk_category": "Inventory Obsolescence and Write-Downs",
+      "detail": "The company faces inventory obsolescence risk, requiring frequent write-downs. Write-downs recorded in Cost of revenues were $106 million (2021), $145 million (2020), and $138 million (2019)."
+    },
+    {
+      "risk_category": "Financial Instrument Valuation Risk",
+      "detail": "Certain financial assets and liabilities, specifically corporate debt securities and interest rate swaps, are measured using Level II inputs, while Solar Asset and Loan-backed Notes rely on Level III inputs. This indicates reliance on indirect or unobservable market data for valuation, introducing potential measurement uncertainty."
+    },
+    {
+      "risk_category": "Earnings Volatility from Derivative Instruments",
+      "detail": "The company uses fixed-for-floating interest rate swap agreements, which are not designated as hedging instruments. Changes in the fair values of these derivatives are recognized in 'Other income (expense), net' in the consolidated statements of operations, which can increase earnings volatility."
+    },
+    {
+      "risk_category": "Restricted and Non-Recourse Debt Risk",
+      "detail": "A significant amount of company assets are pledged or restricted as collateral for outstanding debt ($5.25 billion as of December 31, 2021). Furthermore, non-recourse debt structures (Automotive Asset-backed Notes and Solar Asset/Loan-backed Notes) mean that the assets and cash flows of the related Special Purpose Entities (SPEs) are isolated and not available to general creditors, subjecting the pledged assets to loss if the specific SPEs default."
+    }
+  ]
+}

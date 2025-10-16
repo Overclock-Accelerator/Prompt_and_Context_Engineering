@@ -1,0 +1,134 @@
+[
+  {
+    "label": "ITEM 1",
+    "title": "BUSINESS",
+    "snippet": "<p id=\"item_1_business\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:10.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 1.\t</span><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">BUSINESS</span></p>",
+    "file": "part_1.html"
+  },
+  {
+    "label": "ITEM 1A",
+    "title": "RISK FACTORS",
+    "snippet": "<p id=\"risk_factors\" style=\"text-indent:-9.971%;padding-left:9.067%;font-size:10.0pt;margin-top:0.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 1A.\tRISK FACTORS</span></p>",
+    "file": "part_1.html"
+  },
+  {
+    "label": "ITEM 1B",
+    "title": "UNRESOLVED STAFF COMMENTS",
+    "snippet": "<p id=\"unresolved_staff_comments\" style=\"text-indent:-9.971%;padding-left:9.067%;font-size:10.0pt;margin-top:14.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 1B.\tUNRESOLVED STAFF COMMENTS</span></p>",
+    "file": "part_1.html"
+  },
+  {
+    "label": "ITEM 2",
+    "title": "PROPERTIES",
+    "snippet": "<p id=\"properties\" style=\"text-indent:-9.971%;padding-left:9.067%;font-size:10.0pt;margin-top:14.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 2.\tPROPERTIES</span></p>",
+    "file": "part_1.html"
+  },
+  {
+    "label": "ITEM 3",
+    "title": "LEGAL PROCEEDINGS",
+    "snippet": "<p id=\"legal_proceedings\" style=\"text-indent:-9.971%;padding-left:9.067%;font-size:10.0pt;margin-top:14.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 3.\tLEGAL PROCEEDINGS</span></p>",
+    "file": "part_1.html"
+  },
+  {
+    "label": "ITEM 4",
+    "title": "MINE SAFETY DISCLOSURES",
+    "snippet": "<p id=\"mine_safety_disclosures\" style=\"text-indent:-9.971%;padding-left:9.067%;font-size:10.0pt;margin-top:14.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 4.\tMINE SAFETY DISCLOSURES</span></p>",
+    "file": "part_1.html"
+  },
+  {
+    "label": "ITEM 5",
+    "title": "MARKET FOR REGISTRANT’S COMMO N EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUIT...",
+    "snippet": "<p id=\"item_5_market_for_registrants\" style=\"text-indent:-9.971%;padding-left:9.067%;font-size:10.0pt;margin-top:14.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 5. MARKET FOR REGISTRANT’S COMMO</span><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">N EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES</span></p>",
+    "file": "part_2.html"
+  },
+  {
+    "label": "ITEM 6",
+    "title": "[RESERVED]",
+    "snippet": "<p id=\"reserved\" style=\"text-indent:-9.971%;padding-left:9.067%;font-size:10.0pt;margin-top:14.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:8.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 6.\t[RESERVED]</span><span id=\"item_6_selected_consolidated_financial_d\"></span></p>",
+    "file": "part_3.html"
+  },
+  {
+    "label": "ITEM 7",
+    "title": "MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+    "snippet": "<p id=\"management_discussion_analysis\" style=\"text-indent:-9.971%;padding-left:9.067%;font-size:10.0pt;margin-top:0.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 7.\tMANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS</span></p>",
+    "file": "part_3.html"
+  },
+  {
+    "label": "ITEM 7A",
+    "title": "QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+    "snippet": "<p id=\"market_risk\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:13.5pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 7A.\tQUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK</span></p>",
+    "file": "part_4.html"
+  },
+  {
+    "label": "ITEM 8",
+    "title": "FINANCIAL STATEME NTS AND SUPPLEMENTARY DATA",
+    "snippet": "<p id=\"item_8_financial_statememts_supplementar\" style=\"text-indent:0.0%;font-size:10.0pt;margin-top:0.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 8.\t\tFINANCIAL STATEME</span><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">NTS AND SUPPLEMENTARY DATA</span></p>",
+    "file": "part_5.html"
+  },
+  {
+    "label": "ITEM 9",
+    "title": "CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE",
+    "snippet": "<p id=\"changes_and_disagreements\" style=\"text-indent:-9.971%;padding-left:9.067%;font-size:10.0pt;margin-top:13.5pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 9.\tCHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE</span></p>",
+    "file": "part_5.html"
+  },
+  {
+    "label": "ITEM 9A",
+    "title": "CONTROLS AND PROCEDURES",
+    "snippet": "<p id=\"controls_and_procedures\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:13.5pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 9A.\tCONTROLS AND PROCEDURES</span></p>",
+    "file": "part_5.html"
+  },
+  {
+    "label": "ITEM 9B",
+    "title": "OTHER INFORMATION",
+    "snippet": "<p id=\"other_information\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:13.5pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 9B.\tOTHER INFORMATION</span></p>",
+    "file": "part_5.html"
+  },
+  {
+    "label": "ITEM 9C",
+    "title": "DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS",
+    "snippet": "<p id=\"disclosure_regarding_foreign_juris\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:13.5pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 9C.\tDISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS</span></p>",
+    "file": "part_5.html"
+  },
+  {
+    "label": "ITEM 10",
+    "title": "DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE",
+    "snippet": "<p id=\"item_10\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:10.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">I</span><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">TEM 10.\tDIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE</span></p>",
+    "file": "part_5.html"
+  },
+  {
+    "label": "ITEM 11",
+    "title": "EXECUTIVE COMPENSATION",
+    "snippet": "<p id=\"item_11\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:13.5pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">I</span><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">TEM 11.\tEXECUTIVE COMPENSATION</span></p>",
+    "file": "part_5.html"
+  },
+  {
+    "label": "ITEM 12",
+    "title": "SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS",
+    "snippet": "<p id=\"item_12\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:13.5pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">I</span><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">TEM 12.\tSECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS</span></p>",
+    "file": "part_5.html"
+  },
+  {
+    "label": "ITEM 13",
+    "title": "CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE",
+    "snippet": "<p id=\"item_13\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:13.5pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">I</span><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">TEM 13.\tCERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE</span></p>",
+    "file": "part_5.html"
+  },
+  {
+    "label": "ITEM 14",
+    "title": "PRINCIPAL ACCOUNTANT FEES AND SERVICES",
+    "snippet": "<p id=\"item_14\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:13.5pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">I</span><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">TEM 14.\tPRINCIPAL ACCOUNTANT FEES AND SERVICES</span></p>",
+    "file": "part_5.html"
+  },
+  {
+    "label": "ITEM 15",
+    "title": "EXHIBITS AND FINANCIAL STATEMENT SCHEDULES",
+    "snippet": "<p id=\"item_15_exhibits_financial_statement_sch\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:10.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 15.\tEXHIBITS AND FINA</span><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">NCIAL STATEMENT SCHEDULES</span></p>",
+    "file": "part_5.html"
+  },
+  {
+    "label": "ITEM 16",
+    "title": "SUMMARY",
+    "snippet": "<p id=\"item_16_summary\" style=\"text-indent:-9.987%;padding-left:9.08%;font-size:10.0pt;margin-top:14.0pt;line-height:1.15;font-family:Times New Roman;margin-bottom:0.0pt;text-align:left;\"><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">ITEM 16.\t</span><span style=\"background-color:rgba(0,0,0,0);color:rgba(0,0,0,1);white-space:pre-wrap;font-weight:bold;font-size:10.0pt;font-family:Times New Roman;\">SUMMARY</span></p>",
+    "file": "part_5.html"
+  }
+]

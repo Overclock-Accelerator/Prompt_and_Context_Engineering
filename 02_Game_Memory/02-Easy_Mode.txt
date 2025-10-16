@@ -1,0 +1,9 @@
+[
+	{
+		"game_num": 12,
+		"rounds": 11,
+		"winner": "conductor",
+		"user_win_count": 10,
+		"conductor_win_count": 1
+	}
+]
