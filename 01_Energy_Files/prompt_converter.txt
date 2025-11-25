@@ -1,0 +1,89 @@
+PROMPT FOR CONVERTING ENERGY DATA FROM CSV TO JSON FORMAT
+=============================================================
+
+Please convert the attached CSV file (02-Energy_Reformatted.csv) into a structured JSON format matching the structure shown in 03-Energy_LLM_Format.json.
+
+INPUT FILE STRUCTURE (CSV):
+---------------------------
+- Row 1: Column headers with date strings (Jan-97, Feb-97, ..., Dec-26)
+- Row 2+: Data rows, each containing:
+  - Column 1: Group name (category)
+  - Column 2: Series name (description)
+  - Columns 3-6: Metadata (map indicator, linechart indicator, units, source key)
+  - Columns 7+: Monthly data values corresponding to the date headers
+
+Key characteristics:
+- Date format in headers: "MMM-YY" (e.g., "Jan-97", "1-Feb", "25-Mar")
+- Some rows are category headers with empty data values
+- Numeric values should be preserved as-is
+- Empty values should be ignored (not included in output)
+
+OUTPUT FORMAT (JSON):
+---------------------
+Create a JSON array where each object represents a single data series with the following structure:
+
+{
+  "group": "Category Name",
+  "series": "Series Description",
+  "unit": "unit of measurement",
+  "source_key": "DATA_SOURCE_KEY",
+  "data": [
+    {"date": "YYYY-MM", "value": numeric_value},
+    {"date": "YYYY-MM", "value": numeric_value},
+    ...
+  ]
+}
+
+TRANSFORMATION RULES:
+---------------------
+1. DATE CONVERSION:
+   - Convert "Jan-97" → "1997-01"
+   - Convert "Feb-97" → "1997-02"
+   - Convert "1-Jan" → "2001-01" (assumes "1-" prefix means year 2001)
+   - Convert "25-Dec" → "2025-12"
+   - Handle year rollovers correctly (97-99 = 1997-1999, 00-26 = 2000-2026)
+
+2. DATA FILTERING:
+   - Skip rows where the "series" column is empty or matches the "group" column exactly
+   - Only include rows that have a valid source_key value
+   - Omit data points with empty/missing values from the data array
+
+3. DATA TYPES:
+   - Preserve numeric values as numbers (not strings)
+   - Handle decimal values correctly
+   - Keep dates as strings in "YYYY-MM" format
+
+4. STRUCTURE:
+   - Each data series becomes one JSON object in the output array
+   - The "data" array should contain all non-empty time series values
+   - Sort data points chronologically within each series
+
+EXAMPLE TRANSFORMATION:
+-----------------------
+Input CSV row:
+Crude Oil Production,U.S. Crude Oil Production,1,1,million barrels per day,COPRPUS,6.4,6.51,6.45,...
+
+Output JSON object:
+{
+  "group": "Crude Oil Production",
+  "series": "U.S. Crude Oil Production",
+  "unit": "million barrels per day",
+  "source_key": "COPRPUS",
+  "data": [
+    {"date": "1997-01", "value": 6.4},
+    {"date": "1997-02", "value": 6.51},
+    {"date": "1997-03", "value": 6.45},
+    ...
+  ]
+}
+
+SPECIAL NOTES:
+--------------
+- The CSV contains hierarchical data with category headers (rows with no data)
+- The "group" field should reflect the last seen category header
+- Some series may have "--" or empty values which should be excluded
+- Maintain the order of series as they appear in the CSV
+- The output should be a valid JSON array with proper formatting
+
+Please process the entire CSV file and generate the complete JSON output.
+
